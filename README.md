@@ -58,7 +58,7 @@ Follow these steps to set up the project locally:
    Create a `.env` file in the root directory and add your OpenWeather API key:
 
    ```env
-   REACT_APP_WEATHER_API_KEY=your_api_key_here
+   VITE_OPENWEATHER_API_KEY = your_api_key_here
    ```
 
 4. **Start the Development Server**:
@@ -91,7 +91,7 @@ Follow these steps to set up the project locally:
 
 ## 📸 Screenshots or GIFs
 
-None
+![App Screenshot](./assets/screenshot.png)
 
 ---
 
