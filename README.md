@@ -91,7 +91,7 @@ Follow these steps to set up the project locally:
 
 ## 📸 Screenshots or GIFs
 
-None
+![App Screenshot](./public/assets/Screenshot.png)
 
 ---
 
